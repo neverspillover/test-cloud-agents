@@ -3,7 +3,7 @@
 
 
 def main():
-    """Main function."""
+    """Main function"""
     print("Hello, World!")
 
 
