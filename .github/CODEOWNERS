@@ -1,0 +1,5 @@
+# Default reviewers for all files
+# Each line is a file pattern followed by one or more owners.
+
+# Set default reviewer for all files
+*    @cursor
